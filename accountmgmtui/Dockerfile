@@ -1,4 +1,4 @@
-# Dockerfile for Nginx -- E Microservices Example
+# Dockerfile 
 
 FROM nginx:latest
 
